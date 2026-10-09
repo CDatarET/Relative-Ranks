@@ -16,7 +16,5 @@ class Solution:
             else:
                 score[place[srt[i]]] = str(j)
                 j += 1
-        print(score)
-        print(place)
-        print(srt)
+                
         return score
